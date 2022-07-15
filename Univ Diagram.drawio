@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T07:41:33.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="sUwOPuIIOOAG-TAWYtoo" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T07:42:27.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="kxMO-VPyK1Tm7LiT9Ovk" version="20.1.1" type="github">
   <diagram id="qzzYfuFn5zmGfZdiS9CK" name="페이지-1">
     <mxGraphModel dx="920" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,6 +127,9 @@
         </mxCell>
         <mxCell id="gTfTQDhMDJCcpf9TPI65-26" value="전공유무" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="180" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gTfTQDhMDJCcpf9TPI65-53" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;수강관리 ERD&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
